@@ -13,3 +13,13 @@ or download the [ready ROM](https://github.com/avivace/quadratino/raw/master/qua
 Reccomended emulator: [bgb](http://bgb.bircd.org/)
 
 
+
+Changes (06/07/2019)
+
+- mode=1;" at line 63 (removed)
+- RAND defined to UINT8
+- n defined a bit before
+- change rand.h to <gb/rand.h>
+- added res.h instead of including C (remove "Multiple definition of _tail_tile_data" when compiling with the new "Make")
+
+- added make for Win+Linux (by flozz)

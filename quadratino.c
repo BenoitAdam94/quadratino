@@ -60,7 +60,7 @@ int main(){
   up=1;
   clearBKG();
   k=1;
-  mode=1;
+  
   last=3;
   lastb=3;
   justStarted=1;

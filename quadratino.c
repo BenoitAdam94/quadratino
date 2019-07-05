@@ -12,7 +12,7 @@
 
 #include <gb/gb.h> // GBDK function library
 #include <gb/hardware.h> // Handy hardware references
-#include <rand.h> // Random functions
+#include <gb/rand.h> // Random functions
 #include "res.c" // Sprite and background data
 
 // Function declaration
